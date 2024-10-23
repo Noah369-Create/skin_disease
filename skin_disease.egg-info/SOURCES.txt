@@ -1,0 +1,9 @@
+setup.py
+skin_disease.egg-info/PKG-INFO
+skin_disease.egg-info/SOURCES.txt
+skin_disease.egg-info/dependency_links.txt
+skin_disease.egg-info/requires.txt
+skin_disease.egg-info/top_level.txt
+src/__init__.py
+src/model.py
+src/preprocess.py

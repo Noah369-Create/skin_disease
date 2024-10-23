@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: skin-disease
+Version: 0.0.1
+Author: Akalu
+Author-email: ake.abrish@gmail.com
+Requires-Dist: tensorflow
+Requires-Dist: keras
+Requires-Dist: flask
+Requires-Dist: opencv-python
+Requires-Dist: pillow
+Requires-Dist: scikit-learn
+Requires-Dist: numpy
+Requires-Dist: pandas
